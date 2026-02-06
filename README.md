@@ -35,7 +35,7 @@ It is based on STOMP (Simple Text Oriented Messaging Protocol) messaging protoco
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 src/main/java
  └── com.example.chatapp
@@ -50,7 +50,7 @@ src/main/resources
 
 ---
 
-## How It Works
+## ⚙️ How It Works
 
 - The application establishes a WebSocket connection between the client and server.
 - When a user sends a message, it is sent to the server via WebSocket.
@@ -59,7 +59,7 @@ src/main/resources
 
 ---
 
-## Getting Started
+## ▶️ Getting Started
 
 ### Prerequisites
 - Java 11 or higher (Java 17 recommended)
@@ -84,7 +84,7 @@ src/main/resources
 
 ---
 
-## Use Cases
+## 🧪 Use Cases
 
 - Learning WebSockets with Spring Boot
 - Understanding real-time communication
@@ -93,7 +93,7 @@ src/main/resources
 
 ---
 
-## Future Enhancements
+## 🔮 Future Enhancements
 
 - User authentication and authorization
 - Private chat rooms
@@ -104,7 +104,7 @@ src/main/resources
 
 ---
 
-## Learning Outcomes
+## 📚 Learning Outcomes
 
 - WebSocket protocol
 - Spring Boot WebSocket configuration
