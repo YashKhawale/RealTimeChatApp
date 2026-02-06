@@ -37,8 +37,9 @@ It is based on STOMP (Simple Text Oriented Messaging Protocol) messaging protoco
 
 ## 📂 Project Structure
 
+```text
 src/main/java
- └── com.example.chatapp
+ └── com/example/chatapp
      ├── config        # WebSocket configuration
      ├── controller    # Message controllers
      ├── model         # Message model
@@ -47,6 +48,7 @@ src/main/java
 src/main/resources
  ├── templates         # Thymeleaf HTML files
  └── application.properties
+```
 
 ---
 
